@@ -5,6 +5,8 @@ text, blue accents and soft blue-gray backgrounds.
 
 ![Tokyo Day with VS Code, btop and terminals](preview.png)
 
+![Tokyo Day winding-road wallpaper](backgrounds/0-winding-road.png)
+
 ## Install
 
 ```sh
