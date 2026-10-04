@@ -1,0 +1,8 @@
+# Local editor and audit artifacts
+*.swp
+*.swo
+*~
+*.bak
+*.bak.*
+.theme-audit-*/
+.DS_Store
